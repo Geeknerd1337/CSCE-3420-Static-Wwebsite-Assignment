@@ -10,7 +10,7 @@ const App = () => {
         <Col>
           <Image src='https://i.imgur.com/prPdLDk.png' roundedCircle fluid />
           <h2 className='mt-3'>This is an Example Page</h2>
-          <p className='lead'>Made by Josh Wilson</p>
+          <p className='lead'>Made by Josh Wilson 3</p>
         </Col>
       </Row>
     </Container>
